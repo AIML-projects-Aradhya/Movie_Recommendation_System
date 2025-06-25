@@ -78,7 +78,7 @@ Follow these steps to set up and run the Movie Recommendation System locally:
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/araa2105/Movie_Recommendation_System.git
+git clone https://github.com/ara2105/Movie_Recommendation_System.git
 cd Movie_Recommendation_System
 ```
 
